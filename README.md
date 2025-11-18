@@ -1,1 +1,4 @@
-version control is one of the lab topic
+<<<<<<< HEAD
+
+Lab8 is about  version control
+>>>>>>> eaab0ef (Initial commit:added README file)
